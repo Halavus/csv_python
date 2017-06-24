@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+DPD.csv
+z_archives/
+files_from_MP/
